@@ -1,0 +1,6 @@
+ID Nombre Departamento Salario
+201 Ana Contabilidad 3500
+202 Luis IT 4200
+203 María RecursosHumanos 2800
+204 Pedro Marketing 3100
+205 Sofía IT 4500
